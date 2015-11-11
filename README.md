@@ -1,6 +1,8 @@
 12VBatteryMonitor
 =================
 
+[![Join the chat at https://gitter.im/glynhudson/12VBatteryMonitor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/glynhudson/12VBatteryMonitor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 12V battery voltage logger with SD card and serial LCD
 Photo: https://pbs.twimg.com/media/BrNnBGaIcAAuJAc.jpg:large
 
